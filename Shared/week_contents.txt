@@ -14,20 +14,20 @@
 [Week4]
 > 실습: Practice3 8~9
 > 이론: Lecture2 4.1~4.6(4.3은 4.3.1만, 4.5제외)
-> 실습: Practice4 1~3.1
+> 실습: Practice4 1.1~3.1
 
 [Week5]
-> 이론: Lecture2 4.3나머지
-> 실습: Practice4 3.2~4
+> 이론: Lecture2 4.3(나머지)
+> 실습: Practice4 3.2~3.4
 > 이론: Lecture2 4.5 + Lecture3 1.1~1.3 
 
 [Week6]
-> 실습: Practice5 
+> 실습: Practice5 전부
 > 이론: Lecture3 2.1
 
 [Week7]
 > 이론: Lecture3 2.2~2.4
 
 [Week8]
-> 실습: Practice6
-> 이론: Lecture4
+> 실습: Practice6 전부
+> 이론: Lecture4 전부
