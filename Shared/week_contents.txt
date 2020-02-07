@@ -1,7 +1,7 @@
 [Week1: 수업준비(이론), 통계언어가설검정(이론) 및 파이썬 데이터핸들링(실습)]
 > 실습: installation(강의자료 및 프로그램준비)
 > 이론: Lecture1
-> 실습: Practice0 + Practice1
+> 실습: Practice0 + Practice1 + Practice2
 
 [Week2: 알고리즘종류와 시계열변수생성(이론+실습)]
 > 이론: Lecture2 1.1~2.1
